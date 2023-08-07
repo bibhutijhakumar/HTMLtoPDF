@@ -27,7 +27,7 @@ const Steps = () => {
                         <img class="w-full h-full object-cover" src={'https://www.npoint.io/img/step-1.png'} />
                     </div>
                 </div>
-                {/* <div class="usage-row flex w-9/12 py-7 m-auto justify-between">
+                <div class="usage-row flex w-9/12 py-7 m-auto justify-between">
                     <div className='w-7/12 h-96 mr-11'>
                         <img class="w-full h-full object-cover" src={'https://www.npoint.io/img/step-2.png'} />
                     </div>
@@ -46,7 +46,7 @@ const Steps = () => {
                     <div className='w-7/12 h-96 ml-11'>
                         <img class="w-full h-full object-cover" src={'https://www.npoint.io/img/step-3.png'} />
                     </div>
-                </div> */}
+                </div>
             </div>
         </section>
     )
